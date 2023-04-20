@@ -15,6 +15,7 @@ ps: If you __do not__ have a Linux machine, you can run the code on a __virtual 
 - Windows: [VirtualBox](https://www.virtualbox.org/)
 - MAC: [UTM](https://mac.getutm.app/)
 
+
 Run the following command to download and install the required packages.
 
 ```git clone -b melodic-devel https://github.com/ros-planning/panda_moveit_config.git rosdep updaterosdep install --from-paths . --ignore-src -r -y```
