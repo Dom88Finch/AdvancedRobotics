@@ -15,7 +15,8 @@ The command below downloads the required packages and ```![ROS melodic](http://w
 - MAC: https://mac.getutm.app/
 )
 ```git clone -b melodic-devel https://github.com/ros-planning/panda_moveit_config.git rosdep updaterosdep install --from-paths . --ignore-src -r -y```
-Where ROS- DISTRO is the name of your ROS distribution.
+
+where ROS- DISTRO is the name of your ROS distribution.
 
   1. unzip the ```ar_week10_test.zip``` folder in the src folder.
 
