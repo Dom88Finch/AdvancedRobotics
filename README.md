@@ -1,6 +1,6 @@
 
 # Robotic Arm Project
-Code developed by Dominic Nzimi, QMUL
+Code developed by Dominic N, QMUL
 
 [ROS](http://wiki.ros.org/) is a Robotic Framework used for devoloping Robots. The video below shows how you can use ROS framework to with RViz to control a Robotic Arm. To achieve this, we first need to code up the plan for the robotic arm movement. This enables us to control the different joints of the arm and ensure the trajectory planning is stable.
 
